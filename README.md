@@ -1,16 +1,16 @@
 # liri-node-app
-# *creator:* Joseph Serrato
-# *created On:* 4 10 2019
+### *creator:* Joseph Serrato
+### *created On:* 4 10 2019
 # About the App
-##LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. The user has the option to make it so liri.js can take in one of the following commands: (listed Below)
+## LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. The user has the option to make it so liri.js can take in one of the following commands: (listed Below)
 
-*concert-this
+* concert-this
 
-*spotify-this-song
+* spotify-this-song
 
-*movie-this
+* movie-this
 
-*do-what-it-says
+* do-what-it-says
 
 # Instructions
 1.Open up Your terminal.
