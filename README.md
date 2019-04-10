@@ -22,8 +22,7 @@
 ## node liri.js concert-this <artist/band name here>
 
 ## what is displayed is a list of 5 of the next upcoming shows for selected artist, if no there is no upcoming shows results will be "undefined".
-![concert this]
-(images/concert-this.png)
+![concert this](images/concert-this.png)
 
 
 # Example 2: Run this command: spotify-this-song
@@ -32,13 +31,11 @@
   
   ## what is displayed is the first result of the song name inputed.
   
-  ![spotify this song]
-  (images/spotify-this-song.png)
+  ![spotify this song](images/spotify-this-song.png)
   
   ## If user does not input a song name then a default song "The sign" by artist "Ace of Base" will be outputed.
   
-  ![ace of base]
-  (images/ace-of-base.png)
+  ![ace of base](images/ace-of-base.png)
   
   # Example 3: Run this command: movie-this
   
@@ -46,13 +43,11 @@
   
   ## what is displayed is shown below
 
-  ![movie this]
-  (images/movie-this.png)
+  ![movie this](images/movie-this.png)
 
   ## if user does not input a movie name the program will default 'mr.nobody' shown below
 
-  ![mr nobody]
-  (images/mr-nobody.png)
+  ![mr nobody](images/mr-nobody.png)
 
   # Example 4: Run this command: do-what-it-says
 
@@ -60,8 +55,7 @@
 
   ## The system will read the text in the random.txt file, and perform the comman listed in the random.txt file 
 
-  ![do what it says]
-  (images/do-what-it-says.png)
+  ![do what it says](images/do-what-it-says.png)
 
 
 
